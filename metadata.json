@@ -1,0 +1,11 @@
+{
+  "name": "Remix Kampala Pothole Tracker",
+  "description": "Interactive geospatial mapping, citizen reporting, AI damage analysis, and repair dispatch management for potholes across Kampala\u0027s divisions.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
